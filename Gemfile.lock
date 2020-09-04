@@ -56,11 +56,9 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-<<<<<<< HEAD
+
     bcrypt (3.1.16)
-=======
-    bcrypt (3.1.13)
->>>>>>> ddc19b3ec8056f68cd692844658c894d765394ad
+
     bindex (0.8.1)
     bootsnap (1.4.6)
       msgpack (~> 1.0)
@@ -174,13 +172,10 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
-<<<<<<< HEAD
+
     warden (1.2.9)
       rack (>= 2.0.9)
-=======
-    warden (1.2.8)
-      rack (>= 2.0.6)
->>>>>>> ddc19b3ec8056f68cd692844658c894d765394ad
+
     web-console (4.0.2)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
